@@ -5,9 +5,13 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,waxy.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,bilivideo
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -586,3 +590,17 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,ip138.com
+
+# synology
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,synologyupdate.com
+DOMAIN-SUFFIX,dyndns.org
+DOMAIN-SUFFIX,gofile.me
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,nai.com
+DOMAIN-SUFFIX,aliyun.com
+
+#国外QC
+#quickconnect.to
